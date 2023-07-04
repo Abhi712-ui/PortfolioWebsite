@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
+@import 'variables.modules.css';
+
+.title{
+    font-family: var(--main-font);
+    font-size: 24px;
+}
+
+.subtitle{
+    font-family: var(--main-font);
+    font-size: 20px
+}
+
+.heading{
+    font-family: var(--main-font);
+    font-size: 18px
+}
+
+.body{
+    font-family: var(--main-font);
+    font-size: 12px;
+}
+
+.rich-black{
+    color: var(--rich-black)
+}
+
+.prussian-blue{
+    color: var(--prussian-blue)
+}
+
+.paynes-gray{
+    color: var(--paynes-gray)
+}
+
+.silver-lake-blue{
+    color: var(--silver-lake-blue)
+}
+
+.eggshell{
+    color: var(--eggshell)
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.strikethrough{
+    text-decoration: line-through;
+}
